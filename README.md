@@ -1,3 +1,8 @@
+Discontinued
+============
+This repository is no longer actively maintained. Please take a look at the [original repo](https://github.com/SQiShER/java-object-diff).
+
+
 ## Introduction
 
 `java-object-diff` is a simple, yet powerful library to find differences between Java objects. It takes two objects and generates a tree structure that represents any differences between the objects and their children. This tree can then be traversed to extract more information or apply changes to the underlying data structures.
